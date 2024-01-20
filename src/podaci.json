@@ -1,0 +1,9 @@
+{
+  "users":
+  [
+      {"fullname":"Almasa Veljovic","username": "Almasa","password": "78d35e6d6702b5479e012aeb44aa4a2f66f685b2a13ec083063bd835d6736e8d39defacd0ccae76d1b4aee6fd19fa256e93288d765eb91eb3edcf18f280d5902"},
+      {"fullname":"Armin Skrijelj","username": "ArminAki1","password": "ef0669ff500a0b242ec075b4571b4e541ccdbbd2f7e92f4c7e86634c8b3c622c534f6b89dec51772832a5a0b8ec74e46808b3972d3feec4aeba4f84ca1e628a3"},
+      {"fullname":"Dzejlana Music","username": "Dzejlana10","password": "355f1a1b8571f273b8ef6a545e81d5dcc9fde9eb940178d8559265a81f6d2fe0edf5ea97e69545adae9a9d3135d19d25d5a79605924b8544e9c36b9cc7cbae8a"},
+      {"fullname":"Tarik Memovic","username": "Targa","password": "9baa0c9210588532dc7132ed226ff057de9d99b4317235c60976237eba5cd9a096aad110bf38f4df870a23848e811b60aeb22e6184ad0aa25b70feddfe7208c5"}
+  ]
+}
